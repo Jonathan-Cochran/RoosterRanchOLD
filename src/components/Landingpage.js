@@ -14,25 +14,25 @@ class Landing extends Component {
 						/>
 
 						<div className="banner-text">
-							<h1>離 (ri) Seeker</h1>
+							<h1>I LOVE BUILDING</h1>
 							<hr/>
 							<p>
-								Father | Huband | Servant Leader | Technologist | Innovator | Agilist
+								Technology | Teams | Ideas | Passion
 							</p>
 							<div className="social-links">
 
 								{/* LinkedIn */}
-								<a href="http://google.com" rel="noopener noreferrer" target="_blank">
+								<a href="https://www.linkedin.com/in/jonathancochran77/" rel="noopener noreferrer" target="_blank">
 								  <i className="fa fa-linkedin-square" aria-hidden="true" />
 								</a>
 
 								{/* Github */}
-								<a href="http://google.com" rel="noopener noreferrer" target="_blank">
+								<a href="https://github.com/Jonathan-Cochran" rel="noopener noreferrer" target="_blank">
 								  <i className="fa fa-github-square" aria-hidden="true" />
 								</a>
 
 								{/* Twitter */}
-								<a href="http://google.com" rel="noopener noreferrer" target="_blank">
+								<a href="https://twitter.com/JonathanCochran" rel="noopener noreferrer" target="_blank">
 								  <i className="fa fa-twitter-square" aria-hidden="true" />
 								</a>
 
